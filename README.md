@@ -116,8 +116,8 @@ python app.py
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributors
+- **[Nitharshan369](https://github.com/Nitharshan369)**
 - **[SharveshC](https://github.com/SharveshC)**
 - **[Prawin443](https://github.com/Prawin443)**
-- **[Nitharshan369](https://github.com/Nitharshan369)**
 - **[Prasanna-Balakrishnan](https://github.com/Prasanna-Balakrishnan)**
 
