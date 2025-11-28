@@ -88,7 +88,7 @@ python app.py
 | Database Connection & Setup      | Establishing Neo4j connection, configuration, and initial setup   | SharveshC, Prawin443               |
 | Data Population                  | Scripts to populate the Neo4j database from CSV files             | SharveshC, Nitharshan369           |
 | CRUD Operations                  | Add, update, delete, and query operations on student nodes        | SharveshC, Prasanna-Balakrishnan   |
-| Archive & Legacy Code Management | Organizing archived code and Neo4j scripts for reference          | Ashtag3696, Prawin443                |
+| Archive & Legacy Code Management | Organizing archived code and Neo4j scripts for reference          | Nitharshan369, Prawin443                |
 | CSV Handling & Utilities         | Managing CSV files, parsing, and utilities for smooth data import | Nitharshan369, Prasanna-Balakrishnan |
 ----------------------------------------------------------------------------------------------------------------------------------------------
  
