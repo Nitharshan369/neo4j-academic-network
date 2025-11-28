@@ -1,0 +1,7 @@
+malware\model\URLNode.class
+malware\util\CSVDataLoader.class
+malware\service\MalwareDetectionService.class
+malware\filter\ImprovedBloomFilter.class
+malware\neo4j\Neo4jConnection.class
+malware\MalwareDetectionApp.class
+malware\repository\Neo4jURLRepository.class
