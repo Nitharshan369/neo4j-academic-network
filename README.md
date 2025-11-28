@@ -47,7 +47,7 @@
     1. Clone the repository:
 
 ```bash
-git clone https://github.com/SharveshC/Neo4j.git
+git clone https://github.com/Nitharshan369/neo4j-academic-network.git
 cd Neo4j
 ```
 
