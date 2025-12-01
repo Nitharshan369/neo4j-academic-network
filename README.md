@@ -111,9 +111,6 @@ python app.py
 * **archive/neo4j**: Neo4j scripts or backups.
 * **csv/**: Stores CSV files for importing student data.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributors
 - **[Nitharshan369](https://github.com/Nitharshan369)**
